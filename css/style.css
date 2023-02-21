@@ -29,7 +29,7 @@
 .searchbar-conteiner{
         
         background-color: #EEEEEE;
-
+        margin-bottom: 1px;
     }
 
 .linkbar-conteiner{
@@ -41,13 +41,13 @@
 .linkbar1{
     width: 37%;
     background-color: #7EE5DA;
-    margin: 1px 1px;
+    margin: 0px 1px;
 }
 
 .linkbar2{
     width: 275px;
     background-color: #70CCC2;
-    margin: 1px 1px;
+    margin: 0px 1px;
     
 }
 
@@ -55,15 +55,12 @@
     
     width: 585px;
     background-color: #62B3AA;
-    margin: 1px 1px;
+    margin: 0px 1px;
     font-style: normal;
     font-variant-caps: normal;
     font-weight:400;
    
 }
-
-
-
 
 /* conteiner end */
 
